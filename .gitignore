@@ -1,0 +1,12 @@
+venv/
+**pycache**/
+*.pyc
+outputs/
+logs/
+.env
+.DS_Store
+.idea/
+.vscode/
+*.sqlite3
+*.db
+data/candidates.jsonl
